@@ -148,8 +148,9 @@
             }
           }
         }
-      },
-      "III": {
+      }
+    },
+    "III": {
         "GateNumber": 3,
         "GateOverallDifficultyLevel": 2,
         "IsCompleted": false,
@@ -224,7 +225,7 @@
           }
         }
       },
-      "IV": {
+    "IV": {
         "GateNumber": 4,
         "GateOverallDifficultyLevel": 4,
         "IsCompleted": false,
@@ -299,7 +300,7 @@
           }
         }
       },
-      "V": {
+    "V": {
         "GateNumber": 5,
         "GateOverallDifficultyLevel": 4,
         "IsCompleted": false,
@@ -374,7 +375,7 @@
           }
         }
       },
-      "VI": {
+    "VI": {
         "GateNumber": 6,
         "GateOverallDifficultyLevel": 4,
         "IsCompleted": false,
@@ -449,7 +450,7 @@
           }
         }
       },
-      "VII": {
+    "VII": {
         "GateNumber": 7,
         "GateOverallDifficultyLevel": 5,
         "IsCompleted": false,
@@ -524,7 +525,7 @@
           }
         }
       },
-      "VIII": {
+    "VIII": {
         "GateNumber": 8,
         "GateOverallDifficultyLevel": 5,
         "IsCompleted": false,
@@ -599,7 +600,7 @@
           }
         }
       },
-      "IX": {
+    "IX": {
         "GateNumber": 9,
         "GateOverallDifficultyLevel": 6,
         "IsCompleted": false,
