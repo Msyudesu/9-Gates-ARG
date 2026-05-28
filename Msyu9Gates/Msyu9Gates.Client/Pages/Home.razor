@@ -15,9 +15,10 @@
                     @for (var i = 1; i <= 9; i++)
                     {
                         var gateNumber = i;
+                        var gateSigil = $"Images/GateSigils/{i}.jpg";
                         <div class="col">
-                            <div class="card gate-card h-100">
-                                <div class="card-body d-flex flex-column justify-content-between">
+                            <div class="card gate-card h-100" style="background-image: url('@gateSigil'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+                                <div class="card-body d-flex flex-column justify-content-between">                                    
                                     <div>
                                         <h5 class="card-title text-center">
                                             @Utils.ToRoman(gateNumber)
